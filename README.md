@@ -3,7 +3,7 @@
 # Arc Slider
 
 
-A highly customizable Arc slider for Flutter.
+Arc slider for Flutter.
 
 
 ![Example 01](doc/demo.png) 
