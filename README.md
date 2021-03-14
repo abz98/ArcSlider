@@ -2,7 +2,7 @@
 
 # Arc Slider
 
-A highly customizable Arc slider for Flutter.
+Arc slider for Flutter.
 
 ![Example 01](doc/slider00.gif) ![Example 02](doc/slider01.gif)
 
@@ -11,7 +11,7 @@ A highly customizable Arc slider for Flutter.
 
 - [Installation](#installation)
 
-- [SleekCircularSlider parameters](#sleekcircularslider-parameters)
+
 
 
 ### Installation
