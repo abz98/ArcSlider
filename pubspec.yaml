@@ -1,8 +1,9 @@
 name: arc_slider
 description: A slider with a shape of arc 
 version: 1.0.0
-author: abhit patil
-homepage:
+author: abhi patil<abhi.jpatil98@gmail.com>
+homepage: https://github.com/abz98/ArcSlider.git
+
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
